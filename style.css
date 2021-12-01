@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI';
+
+}
+
+h1{
+    display: inline-block;
+    position: fixed;
+    border: 2px solid black;
+}
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    /* background-color: blue; */
+    
+    margin: 2px;
+}
